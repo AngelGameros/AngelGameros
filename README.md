@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AngelGameros
+- 👀 I’m interested in ... learn much more about software development and programming!
+- 🌱 I’m currently learning ... more about object-oriented programming and web sites!
+- 💞️ I’m looking to collaborate on ... great teams!
+- 📫 How to reach me ... https://www.linkedin.com/in/angelgameros/
